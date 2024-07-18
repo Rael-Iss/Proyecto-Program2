@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Texto
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Texto\ here.\r\n\ \r\n\ @author\ (IssRael)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=txt\ px\ py\ width\ height
+comment1.target=Texto(java.lang.String,\ int,\ int,\ int,\ int)
+numComments=2

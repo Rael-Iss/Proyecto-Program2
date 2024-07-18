@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=DBA
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ DBA\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=u
+comment1.target=void\ setUsuario(Usuario)
+comment10.params=codigo
+comment10.target=Suscripcion\ buscarSuscripcionCodigo(int)
+comment11.params=codigo
+comment11.target=boolean\ pagarSuscripcion(int)
+comment2.params=us
+comment2.target=boolean\ existeUsuario(Usuario)
+comment3.params=c
+comment3.target=void\ setCliente(Cliente)
+comment4.params=codigo
+comment4.target=Cliente\ buscarClienteCodigo(java.lang.String)
+comment5.params=codigo
+comment5.target=boolean\ eliminarClienteCodigo(java.lang.String)
+comment6.params=codigo\ nuevoCliente
+comment6.target=boolean\ actualizarClienteCodigo(java.lang.String,\ Cliente)
+comment7.params=s
+comment7.target=void\ setServicio(Servicio)
+comment8.params=codigo
+comment8.target=Servicio\ buscarServicioCodigo(java.lang.String)
+comment9.params=sus
+comment9.target=void\ setSuscripcion(Suscripcion)
+numComments=12
