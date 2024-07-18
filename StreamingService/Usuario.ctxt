@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Usuario
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Usuario\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=usuario\ pass
+comment1.target=Usuario(java.lang.String,\ java.lang.String)
+comment2.params=usuario
+comment2.target=void\ setUsuario(java.lang.String)
+comment2.text=\r\n\ Metodo\ setUsuario\r\n\ \ \r\n\ @param\ \ <usuario>\ de\ usuario\ String\r\n\ @return\ \ void\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getUsuario()
+comment3.text=\r\n\ Metodo\ getusuario\r\n\ \r\n\ @return\ \ String\r\n
+comment4.params=pass
+comment4.target=void\ setPass(java.lang.String)
+comment4.text=\r\n\ Metodo\ setPass\r\n\ \ \r\n\ @param\ \ <pass>\ de\ pass\ String\r\n\ @return\ \ void\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ getPass()
+comment5.text=\r\n\ Metodo\ getPass\r\n\ \r\n\ @return\ \ String\r\n
+numComments=6
